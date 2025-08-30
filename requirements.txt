@@ -1,3 +1,10 @@
 fastapi
 uvicorn
 pydantic
+behave
+requests
+faker
+
+
+
+
